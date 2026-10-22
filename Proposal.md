@@ -5,7 +5,7 @@
 
 ## 1. Product and Users
 
-A web application for support employees reviewing returns at a small online retailer, with managers maintaining policies and approving decisions. Today, staff manually match informal customer messages and order details to policy documents. Exceptions make this slow and inconsistent. The application combines request tracking, policy evidence, AI suggestions, and human decisions.
+A web application for support staff reviewing returns at a small online retailer. Managers maintain policies, approve decisions, and create accounts with support or manager roles; public registration is disabled. Currently, staff manually match informal customer messages and order details to policy documents, making exception handling slow and inconsistent. The application combines request tracking, policy evidence, AI suggestions, and human decisions.
 
 ## 2. LLM Feature and Cost of Error
 
